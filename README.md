@@ -13,22 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## :round_pushpin: Looking for my next adventure
-
-I'm currently exploring new opportunities where I can continue doing the work
-I love while gaining more flexibility in location. I’m passionate about building
-developer tools that enhance the developer experience and drive impact through collaboration.
-
-If you think my skills and interests align with your organization, I'd love to connect.
-Feel free to reach out via email at austin.vazquez.dev@gmail.com or connect with me on
-[LinkedIn](https://www.linkedin.com/in/austin-vazquez).
-
-Let's chat!
-
 ## About Me
 
 Hello, I'm Austin Vazquez. I'm a software developer in Seattle, Washington primarily focused on container
-runtimes at AWS. I wear many hats including son, brother, uncle, mentee, scientist, developer, mentor,
+runtimes. I wear many hats including son, brother, uncle, mentee, scientist, developer, mentor,
 project manager (not my strongest role but I'm working on it), and maintainer just to name a few of my
 favorites.
 
